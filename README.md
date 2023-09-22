@@ -128,4 +128,4 @@ Customize the Node-RED dashboard appearance and layout to better suit your prefe
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the `MIT License` - see the [LICENSE](LICENSE) file for details.
